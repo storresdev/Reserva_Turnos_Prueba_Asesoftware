@@ -1,0 +1,16 @@
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Services.deps.json
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Services.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\ref\Reserva_Turnos_Services.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Services.pdb
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Core.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Core.pdb
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.csproj.AssemblyReference.cache
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.AssemblyInfoInputs.cache
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.AssemblyInfo.cs
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.csproj.CoreCompileInputs.cache
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\ref\Reserva_Turnos_Services.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\obj\Debug\net5.0\Reserva_Turnos_Services.pdb
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Data.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Services\bin\Debug\net5.0\Reserva_Turnos_Data.pdb

@@ -1,0 +1,15 @@
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\bin\Debug\net5.0\Reserva_Turnos_Data.deps.json
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\bin\Debug\net5.0\Reserva_Turnos_Data.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\bin\Debug\net5.0\ref\Reserva_Turnos_Data.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\bin\Debug\net5.0\Reserva_Turnos_Data.pdb
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.csproj.AssemblyReference.cache
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.AssemblyInfoInputs.cache
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.AssemblyInfo.cs
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.csproj.CoreCompileInputs.cache
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\ref\Reserva_Turnos_Data.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.pdb
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\bin\Debug\net5.0\Reserva_Turnos_Core.dll
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\bin\Debug\net5.0\Reserva_Turnos_Core.pdb
+D:\santi\Documents\pruebas_tecnicas\Reserva_Turnos\Reserva_Turnos_Data\obj\Debug\net5.0\Reserva_Turnos_Data.csproj.CopyComplete
