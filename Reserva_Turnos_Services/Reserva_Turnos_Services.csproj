@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Reserva_Turnos_Core\Reserva_Turnos_Core.csproj" />
+    <ProjectReference Include="..\Reserva_Turnos_Data\Reserva_Turnos_Data.csproj" />
+  </ItemGroup>
+
+</Project>
